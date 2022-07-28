@@ -1,4 +1,14 @@
 ---
 label: About
 hide_body: false
-fields: []
+fields:
+- name: about_andreea
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: About Andreea
+  description: A short about describing who you are and what you do
