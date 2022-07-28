@@ -7,7 +7,6 @@ sections:
 - type: document
   path: about
   label: about
-  match: "**/*"
 - type: directory
   path: showreel
   label: Showreel
