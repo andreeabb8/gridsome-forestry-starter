@@ -1,5 +1,5 @@
 ---
-thumbnail: "/gallery/wallpaper.jpg"
+thumbnail: "/uploads/wallpaper.jpg"
 title: Porta400
 date: 2019-01-03
 categories:
