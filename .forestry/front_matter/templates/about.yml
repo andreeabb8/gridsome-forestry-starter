@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: About Andreea
   description: A short about describing who you are and what you do
+pages:
+- src/pages/test_about.vue
